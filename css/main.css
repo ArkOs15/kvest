@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(158, 213, 218);
+}
+
+.DR{
+    width: 250px;
+    margin-left: 750px;
+}
+
+.dad{
+    margin-left: 700px;
+}
+
+.dade{
+    margin-left: 710px;
+}
+
+.dads{
+    margin-left: 760px;
+}
+.dd{
+    margin-left: 600px;
+}
